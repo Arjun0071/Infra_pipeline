@@ -1,0 +1,8 @@
+[master]
+<jenkins-master-ip>
+
+[slave]
+<jenkins-slave-ip>
+
+[app]
+<app dns/ip>

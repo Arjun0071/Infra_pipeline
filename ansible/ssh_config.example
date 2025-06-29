@@ -1,0 +1,6 @@
+Host bastion
+   User ubuntu
+   Hostname <bastion host public dns>
+
+Host <app private dns>
+   ProxyJump bastion
